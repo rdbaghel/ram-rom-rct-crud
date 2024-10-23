@@ -1,0 +1,74 @@
+{
+  "student_data": [
+    {
+      "id": "2",
+      "rollno": "102",
+      "name": "Shivam",
+      "city": "Indore",
+      "fees": "56000"
+    },
+    {
+      "id": "e8f8",
+      "rollno": "103",
+      "name": "Manoj Sharma",
+      "city": "Gwalior",
+      "fees": "45600"
+    },
+    {
+      "id": "3477",
+      "rollno": "104",
+      "name": "Mohan",
+      "city": "bihar",
+      "fees": "45767"
+    },
+    {
+      "id": "fed3",
+      "rollno": "103",
+      "name": "Sumit Yadav",
+      "city": "Indore",
+      "fees": "89000"
+    },
+    {
+      "id": "cd4e",
+      "rollno": "105",
+      "name": "Kartik Pandey",
+      "city": "Goa",
+      "fees": "65320"
+    },
+    {
+      "id": "2f0f",
+      "rollno": "150",
+      "name": "DEV BAGHEL",
+      "city": "South Delhi",
+      "fees": "78900"
+    },
+    {
+      "id": "61c2",
+      "rollno": "420",
+      "name": "Deadpool",
+      "city": "NewYork",
+      "fees": "0 broke :)"
+    },
+    {
+      "id": "a34f",
+      "rollno": "469",
+      "name": "Wolverine",
+      "city": "NewYork",
+      "fees": "Pocket money by Xavier 👍🏼"
+    },
+    {
+      "id": "7899",
+      "rollno": "141",
+      "name": "Anshul",
+      "city": "Bhopal",
+      "fees": "70000"
+    },
+    {
+      "id": "453b",
+      "rollno": "116",
+      "name": "raj",
+      "city": "bhopal",
+      "fees": "67000"
+    }
+  ]
+}
